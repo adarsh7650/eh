@@ -1,0 +1,6 @@
+SQL INJECTION-->
+https://github.com/payloadbox/sql-injection-payload-list/blob/master/Intruder/exploit/Auth_Bypass.txt
+
+
+XSS -->
+https://github.com/payloadbox/xss-payload-list/blob/master/Intruder/xss-payload-list.txt

